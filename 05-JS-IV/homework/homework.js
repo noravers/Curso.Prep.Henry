@@ -164,6 +164,7 @@ function agregarMetodoCalculoDescuento(producto) {
     return nuevoPrecio;
   }
   return producto;
+  
 
 }
 
